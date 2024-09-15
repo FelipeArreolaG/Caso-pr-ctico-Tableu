@@ -21,8 +21,8 @@ Al igual que en la anterior grafica vemos una representacion bastante buena en e
 
 Se realiza una suma y representacion grafica de las ausencias y retardos de los empleados con el fin de hacerles llegar la informacion a su jefe directo y ver particularmente su caso con el fin de mejorar la condicion laboral o en todo caso darle termino al empleado.
 
-## Razones por la cual renuncia el empleado
+## Razones de renuncia
 
 ![Termination reasons](https://github.com/user-attachments/assets/c9712e3d-faa8-43ee-84bd-1fcc2d7c628c)
 
-Se hace un analisis para determinar los factores principales por la cual se gestiona una rotacion laboral dentro de la empresa, aun asi la inmensa mayoria sigue trabajando para la empresa.
+Se hace un analisis para determinar los factores principales por la cual se gestiona una rotacion laboral dentro de la empresa, aun asi la inmensa mayoria sigue trabajando para la misma.
