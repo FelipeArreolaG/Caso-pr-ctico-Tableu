@@ -13,7 +13,7 @@ En estas graficas podemos observar una gran representacion de personas en los di
 
 ![Special projects](https://github.com/user-attachments/assets/780c47e3-56c0-4f5d-88b1-83b8db390d6b)
 
-Al igual que en la anterior grafica vemos una representacion bastante buena en el rendimiento de los diferentes departamentos y por otro lado podemos ver en que area se llevan a cabo la mayor cantidad de proyectos, asi vemos que la gestion del recurso asignado a esos proyectos estan siendo muy rentables.
+Al igual que en la anterior grafica vemos una representacion bastante buena en el rendimiento en este caso sobre los proyectos de los diferentes departamentos, y por otro lado podemos ver en que area se llevan a cabo la mayor cantidad de proyectos. Asi vemos que la gestion de los recursos asignados a estos proyectos esta siendo altamente rentable.
 
 ## Retardos y ausencias de los empleados.
 
