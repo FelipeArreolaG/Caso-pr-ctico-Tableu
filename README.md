@@ -7,7 +7,7 @@ https://public.tableau.com/app/profile/felipe.de.jesus.arreola.garcia/viz/Casopr
 
 ![Performance score](https://github.com/user-attachments/assets/ec070f55-2a95-4824-95b5-75753005b39b)
 
-En estas graficas podemos observar una gran representacion de personas en los diversos departamentos de la empresa que se encuentran dentro del rendimiento optimo y las demas clasificaciones son drasticamente reducida por lo cual si bien vemos areas de mejora tambien podemos conciliar que se estan realizando una buena gestion.
+En estas graficas podemos observar una gran representacion de personas en los diversos departamentos de la empresa que se encuentran dentro del rendimiento optimo y las demas clasificaciones son drasticamente reducidas por lo cual si bien vemos areas de mejora, tambien podemos conciliar que se esta realizando una buena gestion.
 
 ## Rendimiento de los proyectos especiales.
 
